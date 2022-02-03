@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    tools:context=".Task1Fragment">
+
+    <Button
+        android:id="@+id/alert_dialog"
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:backgroundTint="@color/red"
+        android:padding="15sp"
+        android:text="@string/alert_dialog"
+        android:textAllCaps="false" />
+
+    <Button
+        android:id="@+id/custom_dialog"
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:backgroundTint="@color/red"
+        android:padding="15sp"
+        android:text="@string/custom_dialog"
+        android:textAllCaps="false" />
+
+
+    <Button
+        android:id="@+id/fragment_dialog"
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:backgroundTint="@color/red"
+        android:padding="15sp"
+        android:text="@string/fragment_dialog"
+        android:textAllCaps="false" />
+
+
+    <Button
+        android:id="@+id/datapicker_dialog"
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:backgroundTint="@color/red"
+        android:padding="15sp"
+        android:text="@string/datapicker_dialog"
+        android:textAllCaps="false" />
+
+
+    <Button
+        android:id="@+id/timepicker_dialog"
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:backgroundTint="@color/red"
+        android:padding="15sp"
+        android:text="@string/timepicker_dialog"
+        android:textAllCaps="false" />
+
+
+    <Button
+        android:id="@+id/bottomsheet_dialog"
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:backgroundTint="@color/red"
+        android:padding="15sp"
+        android:text="@string/bottomsheet_dialog"
+        android:textAllCaps="false" />
+
+    <Button
+        android:id="@+id/snackbar"
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:backgroundTint="@color/red"
+        android:padding="15sp"
+        android:text="@string/snackbar"
+        android:textAllCaps="false" />
+
+
+</LinearLayout>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android_Studio/Projects/HW_16/app/src/main/res/drawable/back_bg.xml" value="0.29794871794871797" />
+        <entry key="..\:/Android_Studio/Projects/HW_16/app/src/main/res/drawable/back_tv.xml" value="0.2074074074074074" />
+        <entry key="..\:/Android_Studio/Projects/HW_16/app/src/main/res/drawable/circle_white.xml" value="0.29794871794871797" />
+        <entry key="..\:/Android_Studio/Projects/HW_16/app/src/main/res/drawable/custom1_background.xml" value="0.29794871794871797" />
+        <entry key="..\:/Android_Studio/Projects/HW_16/app/src/main/res/drawable/custom_dialog1.xml" value="0.29794871794871797" />
+        <entry key="..\:/Android_Studio/Projects/HW_16/app/src/main/res/drawable/ic_baseline_supervised_user_circle_24.xml" value="0.3026041666666667" />
+        <entry key="..\:/Android_Studio/Projects/HW_16/app/src/main/res/drawable/ripple.xml" value="0.2074074074074074" />
+        <entry key="..\:/Android_Studio/Projects/HW_16/app/src/main/res/layout/activity_main.xml" value="0.27239583333333334" />
+        <entry key="..\:/Android_Studio/Projects/HW_16/app/src/main/res/layout/awesome_dialgo.xml" value="0.2864583333333333" />
+        <entry key="..\:/Android_Studio/Projects/HW_16/app/src/main/res/layout/awesome_dialog.xml" value="0.2796296296296296" />
+        <entry key="..\:/Android_Studio/Projects/HW_16/app/src/main/res/layout/back_pressed.xml" value="0.2864583333333333" />
+        <entry key="..\:/Android_Studio/Projects/HW_16/app/src/main/res/layout/bottom_dialog.xml" value="0.2864583333333333" />
+        <entry key="..\:/Android_Studio/Projects/HW_16/app/src/main/res/layout/custom.xml" value="0.264" />
+        <entry key="..\:/Android_Studio/Projects/HW_16/app/src/main/res/layout/custom_dialog1.xml" value="0.264" />
+        <entry key="..\:/Android_Studio/Projects/HW_16/app/src/main/res/layout/fragment_home.xml" value="0.264" />
+        <entry key="..\:/Android_Studio/Projects/HW_16/app/src/main/res/layout/fragment_my_dialog.xml" value="0.2864583333333333" />
+        <entry key="..\:/Android_Studio/Projects/HW_16/app/src/main/res/layout/fragment_task1.xml" value="0.264" />
+        <entry key="..\:/Android_Studio/Projects/HW_16/app/src/main/res/layout/fragment_task2.xml" value="0.2864583333333333" />
+        <entry key="..\:/Android_Studio/Projects/HW_16/app/src/main/res/layout/fragment_task3.xml" value="0.2864583333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

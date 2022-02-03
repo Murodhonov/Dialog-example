@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">HW_16</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="homework_16">Homework 16</string>
+    <string name="task_1">Task 1</string>
+    <string name="task_2">Task 2</string>
+    <string name="alert_dialog">Alert Dialog</string>
+    <string name="custom_dialog">Custom Dialog</string>
+    <string name="fragment_dialog">Fragment Dialog</string>
+    <string name="datapicker_dialog">DataPicker Dialog</string>
+    <string name="timepicker_dialog">TimePicker Dialog</string>
+    <string name="bottomsheet_dialog">BottomSheet Dialog</string>
+    <string name="snackbar">SnackBar</string>
+    <string name="customdialog">CustomDialog</string>
+    <string name="show_dialog">Show Dialog</string>
+    <string name="no_connection">No Connection</string>
+    <string name="no_internet_msg">No internet connection. Check your connection or try again.</string>
+    <string name="cancel">Cancel</string>
+    <string name="retry">Retry</string>
+    <string name="toast_this_text">Toast this text</string>
+    <string name="menu">Menu</string>
+    <string name="show_recently_files">Show recently files</string>
+    <string name="edit_this_file">Edit this file</string>
+    <string name="share_this_file">Share this file</string>
+    <string name="awesome_dialog">Awesome dialog</string>
+    <string name="lorem">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce congue nunc id autcor feugiat. Maecenas scelerisque nisi quam, at asagittis lectus pharetraid. Eitam ultrices suscipt dictum.</string>
+    <string name="okay">okay</string>
+    <string name="task_3">Task 3</string>
+    <string name="enter_something">Enter something</string>
+    <string name="login_in">Login in</string>
+    <string name="enter_name">Enter name</string>
+    <string name="enter_surname">Enter surname</string>
+    <string name="i_agree_terms_and_condition">I agree terms and condition</string>
+    <string name="sign_up">Sign up</string>
+    <string name="set_cancelable_true">Set cancelable false</string>
+    <string name="exit_msg">Siz haqiqatdan ham dasturdan chiqmoqchimisiz ?</string>
+    <string name="ha">Ha</string>
+    <string name="yo_q">Yo\'q</string>
+</resources>
